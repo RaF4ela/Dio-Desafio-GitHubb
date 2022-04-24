@@ -1,0 +1,13 @@
+Links para Download:
+https://git-scm.com/download/win (git)
+https://typora.io/ (Typora)
+
+Passo a passo repositório (GitHub):
+
+-git clone
+-cd (entrar na pasta)
+-git add .
+-git status (conferir)
+-git commit -m (Detalhar)
+-git status (conferir)
+-git push origin main
